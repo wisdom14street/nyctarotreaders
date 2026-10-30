@@ -59,7 +59,7 @@ def _keep(x): return 'tarot' in x['offers']
 def _keepf(r): return bool(set(r['tags']) & {'Tarot', 'Lenormand', 'Oracle Readings'})
 T = {
  'keep': _keep, 'keep_featured': _keepf, 'lp': 'tarot-readers', 'fp': 'namaste-readers', 'dp': 'tarot-readers', 'unit': 'tarot readers',
- 'email': 'customersupport@namastebookshop.com', 'dir_name': 'Tarot readers',
+ 'email': 'claim@namastebookshop.com', 'dir_name': 'Tarot readers',
  'featured_intro': lambda r: f'{E(r["name"])} reads at Namaste Bookshop on West 14th Street, a few minutes from Union Square. Book through the shop\'s reading calendar, or call the readings line to ask who is in today.',
  'ftitle': lambda r: f'{r["name"]}: Tarot Reader at Namaste Bookshop, Union Square',
  'fdesc': lambda r: f'{r["name"]} ({r["specialty"]}) reads tarot inside Namaste Bookshop, 2 W 14th St, Manhattan. Sessions, prices, weekly schedule and booking.',
