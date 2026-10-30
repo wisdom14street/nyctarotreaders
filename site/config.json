@@ -1,0 +1,14 @@
+{
+ "brand": "NYC Tarot Readers",
+ "short_name": "NYC Tarot",
+ "site_url": "https://nyctarotreaders.com",
+ "storefront": "NYC Tarot Readers",
+ "REVIEW_URL": "",
+ "GOOGLE_SITE_VERIFICATION": "",
+ "bestseller_collections": ["tarot-cards"],
+ "siblings": [],
+ "icon": "tag",
+ "theme": {"ink": "#22143d", "paper": "#faf7f2", "accent": "#f4c95d",
+           "fonts": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Work+Sans:wght@400;600;700&display=swap"},
+ "include_no_photo": false
+}
